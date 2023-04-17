@@ -214,3 +214,19 @@
     color: #E07A5F;
     cursor: pointer;
 }
+
+.whoWeAre {
+  display: inline-block;
+  background-color: #fff;
+  border: 2px black;
+  padding: 15px 30px;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+  margin-top: 30px;
+  transition: background-color 0.3s ease;
+}
+.whoWeAre:hover {
+  font-weight: bold;
+  color: red;
+  cursor: pointer;
+}
