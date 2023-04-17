@@ -37,6 +37,8 @@
 
   .container {
     align-self: left;
+    float: left;
+    text-align: left;
   }
 
   header {
