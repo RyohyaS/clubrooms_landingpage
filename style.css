@@ -34,6 +34,11 @@
   }
   
   /* Header Styles */
+
+  .container {
+    align-self: left;
+  }
+
   header {
     display: flex;
     justify-content: space-between;
