@@ -238,8 +238,8 @@
   background-color: #fff;
   color: #333;
   border: 2px solid #333;
-  padding: 15px 30px;
-  font-size: 1.5rem;
+  padding: 10px 20px;
+  font-size: 1rem;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -249,7 +249,7 @@
 }
 
 .contact-button:hover {
-  background-color: #E07A5F;
+  background-color: #333;
   color: #fff;
   cursor: pointer;
 }
