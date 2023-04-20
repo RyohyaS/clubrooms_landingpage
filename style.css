@@ -180,7 +180,7 @@
   }
 
 
-  .cta-button2 {
+  .icon-button2 {
     color: black;
     padding: 15px 30px;
     font-size: 1.0rem;
@@ -196,11 +196,9 @@
     vertical-align: middle;
 }
   
-  .cta-button2:hover {
-    color: black;
+  .icon-button2:hover {
+    color: #333;
     cursor: pointer;
-    font-weight: bolder;
-    font-size: 1.5rem;
     background: transparent;
   }
 
